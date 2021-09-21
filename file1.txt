@@ -11,5 +11,4 @@ to fix the bug..
 
 to fix the bug2.
 
-checking cr1..
 
