@@ -2,4 +2,6 @@ welcome to git session!!!!
 
 hello world
 
-to fix the bug
+to fix the bug..
+
+to fix the bug2.
